@@ -1,0 +1,6 @@
+{
+    "parent": "item/besieger",
+    "textures": {
+      "layer0": "items/besieger_arrow"
+    }
+  }

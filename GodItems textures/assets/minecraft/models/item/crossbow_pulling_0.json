@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/crossbow",
+  "textures": {
+    "layer0": "minecraft:item/crossbow_pulling_0"
+  },
+  "overrides": [
+   {"predicate": {"custom_model_data":1000011}, "model": "item/besieger_pulling_0"}
+   ]
+}

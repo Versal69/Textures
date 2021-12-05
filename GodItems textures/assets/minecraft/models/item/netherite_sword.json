@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/netherite_sword"
+    },
+    "overrides": [
+     {"predicate": {"custom_model_data":1000018}, "model": "item/cursed_blade"},
+     {"predicate": {"custom_model_data":1000027}, "model": "item/dragon_fang"}
+     ]
+}
+  

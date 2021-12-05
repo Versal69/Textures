@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/iron_sword"
+    },
+    "overrides": [
+     {"predicate": {"custom_model_data":1000019}, "model": "item/blood_sword"},
+     {"predicate": {"custom_model_data":1000022}, "model": "item/katana"}
+     ]
+  }
